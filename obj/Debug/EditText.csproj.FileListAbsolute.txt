@@ -1,0 +1,29 @@
+C:\Users\Max\source\repos\EditText\EditText\bin\Debug\EditText.exe.config
+C:\Users\Max\source\repos\EditText\EditText\bin\Debug\EditText.exe
+C:\Users\Max\source\repos\EditText\EditText\bin\Debug\EditText.pdb
+C:\Users\Max\source\repos\EditText\EditText\obj\Debug\EditText.csprojAssemblyReference.cache
+C:\Users\Max\source\repos\EditText\EditText\obj\Debug\EditText.EditText.resources
+C:\Users\Max\source\repos\EditText\EditText\obj\Debug\EditText.Properties.Resources.resources
+C:\Users\Max\source\repos\EditText\EditText\obj\Debug\EditText.csproj.GenerateResource.cache
+C:\Users\Max\source\repos\EditText\EditText\obj\Debug\EditText.csproj.CoreCompileInputs.cache
+C:\Users\Max\source\repos\EditText\EditText\obj\Debug\EditText.exe
+C:\Users\Max\source\repos\EditText\EditText\obj\Debug\EditText.pdb
+C:\Users\Mex\Desktop\EditText\EditText\bin\Debug\EditText.exe.config
+C:\Users\Mex\Desktop\EditText\EditText\bin\Debug\EditText.exe
+C:\Users\Mex\Desktop\EditText\EditText\bin\Debug\EditText.pdb
+C:\Users\Mex\Desktop\EditText\EditText\obj\Debug\EditText.csprojAssemblyReference.cache
+C:\Users\Mex\Desktop\EditText\EditText\obj\Debug\EditText.EditText.resources
+C:\Users\Mex\Desktop\EditText\EditText\obj\Debug\EditText.Properties.Resources.resources
+C:\Users\Mex\Desktop\EditText\EditText\obj\Debug\EditText.csproj.GenerateResource.cache
+C:\Users\Mex\Desktop\EditText\EditText\obj\Debug\EditText.csproj.CoreCompileInputs.cache
+C:\Users\Mex\Desktop\EditText\EditText\obj\Debug\EditText.exe
+C:\Users\Mex\Desktop\EditText\EditText\obj\Debug\EditText.pdb
+C:\Users\Mex\Documents\выполненные работы\Мультимедиа\EditText\EditText\bin\Debug\EditText.exe.config
+C:\Users\Mex\Documents\выполненные работы\Мультимедиа\EditText\EditText\bin\Debug\EditText.exe
+C:\Users\Mex\Documents\выполненные работы\Мультимедиа\EditText\EditText\bin\Debug\EditText.pdb
+C:\Users\Mex\Documents\выполненные работы\Мультимедиа\EditText\EditText\obj\Debug\EditText.csprojAssemblyReference.cache
+C:\Users\Mex\Documents\выполненные работы\Мультимедиа\EditText\EditText\obj\Debug\EditText.EditText.resources
+C:\Users\Mex\Documents\выполненные работы\Мультимедиа\EditText\EditText\obj\Debug\EditText.Properties.Resources.resources
+C:\Users\Mex\Documents\выполненные работы\Мультимедиа\EditText\EditText\obj\Debug\EditText.csproj.GenerateResource.cache
+C:\Users\Mex\Documents\выполненные работы\Мультимедиа\EditText\EditText\obj\Debug\EditText.exe
+C:\Users\Mex\Documents\выполненные работы\Мультимедиа\EditText\EditText\obj\Debug\EditText.pdb
